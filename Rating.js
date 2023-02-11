@@ -8,4 +8,4 @@ ratingData = [
     {restaurant: 'Subway', rating:4},
     {restaurant: 'Pizza Hut', rating:5}
     ] 
-    
+    console.log(ratingData)
